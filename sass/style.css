@@ -2207,7 +2207,7 @@ body {
         right: 1px;
         width: 12px;
         height: 12px;
-        background-color: transparent;
+       
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         border-radius: 50%; }
@@ -3939,3 +3939,13 @@ body {
  
   
 }
+
+.text-white{
+  color: white;
+  transition: 0.3s all;
+}
+
+.text-white:hover{
+  color: rgb(181, 181, 181);
+}
+
